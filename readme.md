@@ -21,3 +21,4 @@
 
 * Run `git push heroku master`
 
+* don't worry be happy
